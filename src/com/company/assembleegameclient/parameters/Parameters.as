@@ -779,27 +779,6 @@ public class Parameters {
         setDefaultKey("TogglePlayerFollow", KeyCodes.F9);
         setDefault("multiLeader", "");
         setDefault("multiBox", false);
-		
-		/**/
-        setDefault("ignoreGroundDmg", false); // removed for public release ✓
-        setDefault("gapZero", false); // removed for public release ✓
-        setDefault("dmg", false); // removed for public release ✓
-        setDefault("delayBetweenGroundDmg", 10000); // removed for public release ✓
-        setDefault("noclipV2", false); // removed for public release ✓
-        setDefault("noclipOld", false); // removed for public release ✓
-        setDefault("halfClip", false); // removed for public release ✓
-        setDefault("dungeonCompleteExploit", false); // removed for public release ✓
-        setDefaultKey("dungeonReconnectBypassHotkey", KeyCodes.UNSET); // removed for public release ✓
-        setDefault("predictMovement", false); // removed for public release ✓
-        setDefault("fameLockNearbyClusters", false); // removed for public release ✓
-        setDefault("lockRange", 5); // removed for public release ✓
-        setDefault("avoidWalls", true); // removed for public release ✓
-        setDefault("avoidRange", 0.2); // removed for public release ✓
-        setDefault("autoDodge", false); // removed for public release ✓
-        setDefaultKey("autoDodgeHotkey", KeyCodes.UNSET); // removed for public release ✓
-        setDefault("stopHooks", false); // removed for public release ✓
-        setDefault("bulletTracers", false); // removed for public release ✓
-        setDefault("bulletTracersAlpha", 0.5); // removed for public release ✓
 
         /*Debuffs*/
         setDefault("ignoreStatusText", false);
